@@ -1,0 +1,49 @@
+# Translations template for ckanext-tet_spod_com.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the
+# ckanext-tet_spod_com project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ckanext-tet_spod_com 0.0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-06-09 16:01+0100\n"
+"PO-Revision-Date: 2016-06-10 13:16+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:12
+msgid "Discussed in:"
+msgstr "Esame in"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:34
+msgid "Explore"
+msgstr "Esplorare"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:43
+msgid "Preview"
+msgstr "Anteprima"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:46
+msgid "More information"
+msgstr "Maggiori informazioni"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:55
+msgid "Download"
+msgstr "Scaricare"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:58
+msgid "Go to resource"
+msgstr "Vai a risorsa"
+
+#: ckanext/tet_spod_com/templates/package/snippets/resource_item.html:67
+msgid "Edit"
+msgstr "Modifica"
