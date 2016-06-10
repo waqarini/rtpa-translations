@@ -1,0 +1,166 @@
+# Translations template for ckanext-rtpa_theme.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the ckanext-rtpa_theme
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ckanext-rtpa_theme 0.0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-06-09 17:52+0100\n"
+"PO-Revision-Date: 2016-06-10 15:34+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+
+#: ckanext/rtpa_theme/templates/error_document_template.html:3
+#, python-format
+msgid "Error %(error_code)s"
+msgstr "Errore %(error_code)s"
+
+#: ckanext/rtpa_theme/templates/footer.html:11
+#: ckanext/rtpa_theme/templates/header.html:28
+msgid "About"
+msgstr "Informazioni"
+
+#: ckanext/rtpa_theme/templates/footer.html:13
+msgid ""
+"The information available on this website is a property of the contributing "
+"authors from the ROUTE-TO-PA Consortium and does not necessarily reflect the "
+"view of the European Commission. The&nbsp;information in this website is "
+"provided \"as is\", and no guarantee or&nbsp;warranty is given that the "
+"information is fit for any particular purpose. The user uses the information "
+"at its sole risk and liability."
+msgstr ""
+"Le informazioni disponibili su questo sito web è una proprietà di "
+"contribuire autori della route-to-PA Consorzio e non riflette "
+"necessariamente la posizione della Commissione europea. Il & nbsp; "
+"informazioni contenute in questo sito sono fornite \"così come sono\", e "
+"nessuna garanzia o & nbsp; la garanzia viene data che l'informazione è "
+"adatto per un particolare scopo. L'utente utilizza le informazioni a sua "
+"totale rischio e responsabilità."
+
+#: ckanext/rtpa_theme/templates/footer.html:15
+msgid ""
+"This project has received funding from the European Union’s Horizon 2020 "
+"research and innovation programme under grant agreement No&nbsp;645860."
+msgstr ""
+"Questo progetto ha ricevuto un finanziamento dal programma di ricerca e "
+"innovazione Orizzonte 2020 dell'Unione Europea con convenzione di "
+"sovvenzione No & nbsp; 645.860."
+
+#: ckanext/rtpa_theme/templates/footer.html:18
+msgid "About ROUTE-TO-PA"
+msgstr "A proposito di ROUTE-TO-PA"
+
+#: ckanext/rtpa_theme/templates/footer.html:19
+msgid "Terms of use"
+msgstr "Condizioni d'uso"
+
+#: ckanext/rtpa_theme/templates/footer.html:20
+msgid "Privacy Policy"
+msgstr "politica sulla riservatezza"
+
+#: ckanext/rtpa_theme/templates/footer.html:21
+msgid "Feedback"
+msgstr "Risposta"
+
+#: ckanext/rtpa_theme/templates/header.html:21
+#: ckanext/rtpa_theme/templates/home/index.html:18
+msgid "Search"
+msgstr "Ricerca"
+
+#: ckanext/rtpa_theme/templates/header.html:25
+msgid "Datasets"
+msgstr "set di dati"
+
+#: ckanext/rtpa_theme/templates/header.html:26
+msgid "Organizations"
+msgstr "Organizzazioni"
+
+#: ckanext/rtpa_theme/templates/header.html:27
+msgid "Groups"
+msgstr "Gruppi"
+
+#: ckanext/rtpa_theme/templates/header.html:37
+msgid "Sysadmin settings"
+msgstr "Impostazioni sysadmin"
+
+#: ckanext/rtpa_theme/templates/header.html:39
+msgid "Admin"
+msgstr "Adim"
+
+#: ckanext/rtpa_theme/templates/header.html:44
+msgid "View profile"
+msgstr "Vedi profilo"
+
+#: ckanext/rtpa_theme/templates/header.html:51
+#, python-format
+msgid "Dashboard (%(num)d new item)"
+msgid_plural "Dashboard (%(num)d new items)"
+msgstr[0] "Dashboard (%(num)d nuovo elemento)"
+msgstr[1] "Dashboard (%(num)d nuovo elemento)"
+
+#: ckanext/rtpa_theme/templates/header.html:54
+msgid "Dashboard"
+msgstr "Scrivania"
+
+#: ckanext/rtpa_theme/templates/header.html:60
+msgid "Edit settings"
+msgstr "Impostazioni di modifica"
+
+#: ckanext/rtpa_theme/templates/header.html:62
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ckanext/rtpa_theme/templates/header.html:68
+#: ckanext/rtpa_theme/templates/header.html:70
+msgid "Log out"
+msgstr "Disconnettersi"
+
+#: ckanext/rtpa_theme/templates/header.html:78
+msgid "Log in"
+msgstr "Accesso"
+
+#: ckanext/rtpa_theme/templates/header.html:80
+msgid "Register"
+msgstr "Registro"
+
+#: ckanext/rtpa_theme/templates/page.html:6
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#: ckanext/rtpa_theme/templates/home/index.html:3
+msgid "TET homepage"
+msgstr "Home page TET"
+
+#: ckanext/rtpa_theme/templates/home/index.html:11
+msgid "Welcome to TET Platform"
+msgstr "Benvenuti alla piattaforma"
+
+#: ckanext/rtpa_theme/templates/home/index.html:12
+msgid ""
+"Transparency-Enhancing Toolset (TET) is the next-generation open data portal "
+"containing set of tools that facilitate a better understanding of the data "
+"by providing connections and links to related datasets, and providing "
+"information about provenance."
+msgstr ""
+"Trasparenza-Enhancing Toolset (TET) è il portale open data di nuova "
+"generazione contenente un insieme di strumenti che facilitano una migliore "
+"comprensione dei dati, fornendo connessioni e collegamenti a set di dati "
+"correlati, e di fornire informazioni sulla provenienza."
+
+#: ckanext/rtpa_theme/templates/home/index.html:17
+msgid "Search datasets..."
+msgstr "Insiemi di ricerca di dati ..."
+
+#: ckanext/rtpa_theme/templates/home/index.html:18
+msgid "Submit"
+msgstr "Invio"
