@@ -12,14 +12,27 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: login-form.html:28
+#: ckanext/openid/templates/user/snippets/login_form.html:20
+msgid "Username"
+msgstr ""
+
+#: ckanext/openid/templates/user/snippets/login_form.html:22
+msgid "Password"
+msgstr ""
+
+#: ckanext/openid/templates/user/snippets/login_form.html:24
+msgid "Remember me"
+msgstr ""
+
+#: ckanext/openid/templates/user/snippets/login_form.html:28
 msgid "Login"
 msgstr ""
 
-#: login-form.html:35
-msgid "Open ID"
+#: ckanext/openid/templates/user/snippets/login_form.html:35
+#: ckanext/openid/templates/user/snippets/login_form.html:52
+msgid "Login with OpenID"
 msgstr ""
 
-#: login-form.html:40
-msgid "Login with OpenID"
+#: ckanext/openid/templates/user/snippets/login_form.html:45
+msgid "Open ID URL"
 msgstr ""
