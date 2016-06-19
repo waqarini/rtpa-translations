@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: ckanext-rtpa_theme 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-06-09 17:52+0100\n"
-"PO-Revision-Date: 2016-06-10 15:34+0100\n"
+"PO-Revision-Date: 2016-06-10 17:34+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.8\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: it\n"
@@ -164,3 +164,107 @@ msgstr "Insiemi di ricerca di dati ..."
 #: ckanext/rtpa_theme/templates/home/index.html:18
 msgid "Submit"
 msgstr "Invio"
+
+#. Roles & Categories
+msgid "Person with Disabilities"
+msgstr "Persone con disabilità"
+
+#. Roles & Categories
+msgid "Unemployed Person"
+msgstr "Disoccupato"
+
+#. Roles & Categories
+msgid "Resident"
+msgstr "Residente"
+
+#. Roles & Categories
+msgid "Economist"
+msgstr "Economista"
+
+#. Roles & Categories
+msgid "Statistician"
+msgstr "Statistico"
+
+#. Roles & Categories
+msgid "Data Scientist"
+msgstr "Scienziato"
+
+#. Roles & Categories
+msgid "Journalist"
+msgstr "Giornalista"
+
+#. Roles & Categories
+msgid "Businessman"
+msgstr "Imprenditore"
+
+#. Roles & Categories
+msgid "Investor"
+msgstr "Investitore"
+
+#. Roles & Categories
+msgid "Developer"
+msgstr "Sviluppatore"
+
+#. Roles & Categories
+msgid "Climate"
+msgstr "Clima"
+
+#. Roles & Categories
+msgid "Education"
+msgstr "Istruzione"
+
+#. Roles & Categories
+msgid "Finance"
+msgstr "Finanza"
+
+#. Roles & Categories
+msgid "Business"
+msgstr "Impresa"
+
+#. Roles & Categories
+msgid "Society"
+msgstr "Società"
+
+#. Roles & Categories
+msgid "Science"
+msgstr "Scienza"
+
+#. Roles & Categories
+msgid "Energy"
+msgstr "Ambiente"
+
+#. Roles & Categories
+msgid "Culture and Heritage"
+msgstr "Cultura e patrimonio"
+
+#. Roles & Categories
+msgid "Environment"
+msgstr "Ambiente"
+
+#. Roles & Categories
+msgid "Population"
+msgstr "Popolazione"
+
+#. Roles & Categories
+msgid "Health"
+msgstr "Salute"
+
+#. Roles & Categories
+msgid "Technology"
+msgstr "Tecnologia"
+
+#. Roles & Categories
+msgid "Crime and Justice"
+msgstr "Criminalità e Giustizia"
+
+#. Roles & Categories
+msgid "Agriculture"
+msgstr "Agricoltura"
+
+#. Roles & Categories
+msgid "Housing"
+msgstr "Alloggi"
+
+#. Roles & Categories
+msgid "Transport"
+msgstr "Trasporti"
